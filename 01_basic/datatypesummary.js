@@ -44,7 +44,7 @@ console.log(anothername);
 
 let user ={
     email: "user@google.com",
-    upi="userpin@ybl"
+    upi : "userpin@ybl"
 } //user is store on stack but refernces goes to --------> heap which stores { email:" ", upi:" "}
 
 let usertwo=user //usertwo refernces to -------> heap { email:" ", upi:"  "}
