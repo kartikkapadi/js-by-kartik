@@ -29,3 +29,7 @@ console.log(typeof 24.5);
 console.log(typeof true);
 console.log(typeof null); // type iska object hai 
 console.log(typeof undefined) //undefined he hai 
+
+// === (strict checking in js )
+
+console.log("2"===2); // false dega q q ki strict number checking hogi 
